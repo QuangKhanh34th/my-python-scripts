@@ -1,0 +1,918 @@
+[
+  {
+    "kanji": "過ぎる",
+    "vietnamese": "quá"
+  },
+  {
+    "kanji": "振り返る",
+    "vietnamese": "quay đầu lại"
+  },
+  {
+    "kanji": "結構",
+    "vietnamese": "khá, được, đủ (bổ sung)"
+  },
+  {
+    "kanji": "浮かぶー浮く",
+    "vietnamese": "nổi (bổ sung)"
+  },
+  {
+    "kanji": "手帳",
+    "vietnamese": "sổ tay (bổ sung)"
+  },
+  {
+    "kanji": "落ち着く",
+    "vietnamese": "bình tĩnh (động từ)"
+  },
+  {
+    "kanji": "冷静",
+    "vietnamese": "bình tĩnh (tính từ)"
+  },
+  {
+    "kanji": "慌てる",
+    "vietnamese": "hoãn hốt"
+  },
+  {
+    "kanji": "余裕",
+    "vietnamese": "dư dả"
+  },
+  {
+    "kanji": "見直す",
+    "vietnamese": "nhìn lại"
+  },
+  {
+    "kanji": "だらだら",
+    "vietnamese": "thong thả"
+  },
+  {
+    "kanji": "あっという間に",
+    "vietnamese": "trong nháy mắt, thoáng cái"
+  },
+  {
+    "kanji": "リズム",
+    "vietnamese": "nhịp điệu"
+  },
+  {
+    "kanji": "頑張る",
+    "vietnamese": "cố gắng"
+  },
+  {
+    "kanji": "技術",
+    "vietnamese": "kỹ thuật"
+  },
+  {
+    "kanji": "知識",
+    "vietnamese": "tri thức, kiến thức"
+  },
+  {
+    "kanji": "残るー残す",
+    "vietnamese": "còn lại - chừa lại"
+  },
+  {
+    "kanji": "理解",
+    "vietnamese": "lý giải, hiểu"
+  },
+  {
+    "kanji": "勝手",
+    "vietnamese": "ích kỷ, tùy tiện"
+  },
+  {
+    "kanji": "剥く",
+    "vietnamese": "lột, gọt (vỏ)"
+  },
+  {
+    "kanji": "宝物",
+    "vietnamese": "bảo vật, đồ quý giá (bổ sung)"
+  },
+  {
+    "kanji": "通勤",
+    "vietnamese": "đi làm (bổ sung)"
+  },
+  {
+    "kanji": "貴重",
+    "vietnamese": "quý giá (bổ sung)"
+  },
+  {
+    "kanji": "纏まる",
+    "vietnamese": "được tổng hợp, thống nhất (bổ sung)"
+  },
+  {
+    "kanji": "纏める",
+    "vietnamese": "tập hợp, gom lại (bổ sung)"
+  },
+  {
+    "kanji": "たまに",
+    "vietnamese": "thỉnh thoảng (bổ sung)"
+  },
+  {
+    "kanji": "将来",
+    "vietnamese": "tương lai (bổ sung)"
+  },
+  {
+    "kanji": "奨学金",
+    "vietnamese": "học bổng (bổ sung)"
+  },
+  {
+    "kanji": "種類",
+    "vietnamese": "chủng loại (bổ sung)"
+  },
+  {
+    "kanji": "書類",
+    "vietnamese": "tài liệu, giấy tờ (bổ sung)"
+  },
+  {
+    "kanji": "撮る",
+    "vietnamese": "chụp (ảnh) (bổ sung)"
+  },
+  {
+    "kanji": "感想",
+    "vietnamese": "cảm tưởng (bổ sung)"
+  },
+  {
+    "kanji": "情報",
+    "vietnamese": "thông tin (bổ sung)"
+  },
+  {
+    "kanji": "描く",
+    "vietnamese": "vẽ (bổ sung)"
+  },
+  {
+    "kanji": "寝坊する",
+    "vietnamese": "ngủ quên (bổ sung)"
+  },
+  {
+    "kanji": "楽しむ",
+    "vietnamese": "tận hưởng, vui vẻ (bổ sung)"
+  },
+  {
+    "kanji": "習い事",
+    "vietnamese": "việc học thêm (bổ sung)"
+  },
+  {
+    "kanji": "公民館",
+    "vietnamese": "nhà văn hóa công cộng (bổ sung)"
+  },
+  {
+    "kanji": "太鼓",
+    "vietnamese": "trống (bổ sung)"
+  },
+  {
+    "kanji": "実際",
+    "vietnamese": "thực tế (bổ sung)"
+  },
+  {
+    "kanji": "筆箱",
+    "vietnamese": "hộp bút (bổ sung)"
+  },
+  {
+    "kanji": "鉛筆",
+    "vietnamese": "bút chì (bổ sung)"
+  },
+  {
+    "kanji": "筆者",
+    "vietnamese": "tác giả (bổ sung)"
+  },
+  {
+    "kanji": "注目する",
+    "vietnamese": "chú ý (bổ sung)"
+  },
+  {
+    "kanji": "注文する",
+    "vietnamese": "gọi món, đặt hàng (bổ sung)"
+  },
+  {
+    "kanji": "効く",
+    "vietnamese": "có hiệu quả (bổ sung)"
+  },
+  {
+    "kanji": "地域",
+    "vietnamese": "khu vực (bổ sung)"
+  },
+  {
+    "kanji": "貸し出し",
+    "vietnamese": "cho mượn (bổ sung)"
+  },
+  {
+    "kanji": "本人",
+    "vietnamese": "bản thân (bổ sung)"
+  },
+  {
+    "kanji": "例えば",
+    "vietnamese": "ví dụ (bổ sung)"
+  },
+  {
+    "kanji": "例",
+    "vietnamese": "ví dụ (bổ sung)"
+  },
+  {
+    "kanji": "自宅",
+    "vietnamese": "nhà riêng (bổ sung)"
+  },
+  {
+    "kanji": "帰宅",
+    "vietnamese": "về nhà (bổ sung)"
+  },
+  {
+    "kanji": "宅配便",
+    "vietnamese": "dịch vụ giao hàng tận nhà (bổ sung)"
+  },
+  {
+    "kanji": "郵便局",
+    "vietnamese": "bưu điện (bổ sung)"
+  },
+  {
+    "kanji": "郵送する",
+    "vietnamese": "gửi bưu điện (bổ sung)"
+  },
+  {
+    "kanji": "郵便物",
+    "vietnamese": "bưu phẩm (bổ sung)"
+  },
+  {
+    "kanji": "職員",
+    "vietnamese": "nhân viên (bổ sung)"
+  },
+  {
+    "kanji": "職人",
+    "vietnamese": "thợ thủ công (bổ sung)"
+  },
+  {
+    "kanji": "就職",
+    "vietnamese": "tìm việc làm (bổ sung)"
+  },
+  {
+    "kanji": "職場",
+    "vietnamese": "nơi làm việc (bổ sung)"
+  },
+  {
+    "kanji": "パスワード",
+    "vietnamese": "mật khẩu (bổ sung)"
+  },
+  {
+    "kanji": "構わない",
+    "vietnamese": "không sao, không bận tâm (bổ sung)"
+  },
+  {
+    "kanji": "日当たり",
+    "vietnamese": "ánh nắng chiếu vào (bổ sung)"
+  },
+  {
+    "kanji": "確認する",
+    "vietnamese": "xác nhận (bổ sung)"
+  },
+  {
+    "kanji": "場合",
+    "vietnamese": "trường hợp (bổ sung)"
+  },
+  {
+    "kanji": "保険証",
+    "vietnamese": "thẻ bảo hiểm (bổ sung)"
+  },
+  {
+    "kanji": "学生証",
+    "vietnamese": "thẻ học sinh/sinh viên (bổ sung)"
+  },
+  {
+    "kanji": "証明書",
+    "vietnamese": "giấy chứng nhận (bổ sung)"
+  },
+  {
+    "kanji": "届く",
+    "vietnamese": "đến nơi (bổ sung)"
+  },
+  {
+    "kanji": "届ける",
+    "vietnamese": "giao đến (bổ sung)"
+  },
+  {
+    "kanji": "探す",
+    "vietnamese": "tìm kiếm (bổ sung)"
+  },
+  {
+    "kanji": "利用者",
+    "vietnamese": "người sử dụng (bổ sung)"
+  },
+  {
+    "kanji": "登録",
+    "vietnamese": "đăng ký (bổ sung)"
+  },
+  {
+    "kanji": "記録",
+    "vietnamese": "ghi chép, kỷ lục (bổ sung)"
+  },
+  {
+    "kanji": "身分証明書",
+    "vietnamese": "giấy tờ tùy thân (bổ sung)"
+  },
+  {
+    "kanji": "運転免許証",
+    "vietnamese": "bằng lái xe (bổ sung)"
+  },
+  {
+    "kanji": "印鑑",
+    "vietnamese": "con dấu (bổ sung)"
+  },
+  {
+    "kanji": "代表者",
+    "vietnamese": "người đại diện"
+  },
+  {
+    "kanji": "連絡先",
+    "vietnamese": "địa chỉ/ thông tin liên lạc"
+  },
+  {
+    "kanji": "使用料",
+    "vietnamese": "phí sử dụng (bổ sung)"
+  },
+  {
+    "kanji": "登録する",
+    "vietnamese": "đăng ký (bổ sung)"
+  },
+  {
+    "kanji": "記入する",
+    "vietnamese": "điền vào (bổ sung)"
+  },
+  {
+    "kanji": "支払う",
+    "vietnamese": "chi trả (bổ sung)"
+  },
+  {
+    "kanji": "管理人",
+    "vietnamese": "người quản lý"
+  },
+  {
+    "kanji": "解決する",
+    "vietnamese": "giải quyết"
+  },
+  {
+    "kanji": "解消する",
+    "vietnamese": "giải tỏa"
+  },
+  {
+    "kanji": "夕べ",
+    "vietnamese": "tối"
+  },
+  {
+    "kanji": "伺う",
+    "vietnamese": "gọi, hỏi ai đó"
+  },
+  {
+    "kanji": "通路",
+    "vietnamese": "lối đi"
+  },
+  {
+    "kanji": "道路",
+    "vietnamese": "đường lộ"
+  },
+  {
+    "kanji": "切れる",
+    "vietnamese": "cắt đứt"
+  },
+  {
+    "kanji": "取り換える",
+    "vietnamese": "thay thế"
+  },
+  {
+    "kanji": "眠い",
+    "vietnamese": "buồn ngủ"
+  },
+  {
+    "kanji": "眠る",
+    "vietnamese": "đi ngủ"
+  },
+  {
+    "kanji": "睡眠",
+    "vietnamese": "giấc ngủ (bổ sung)"
+  },
+  {
+    "kanji": "事務所",
+    "vietnamese": "văn phòng (bổ sung)"
+  },
+  {
+    "kanji": "事務室",
+    "vietnamese": "phòng làm việc (bổ sung)"
+  },
+  {
+    "kanji": "授業",
+    "vietnamese": "buổi học (bổ sung)"
+  },
+  {
+    "kanji": "事故",
+    "vietnamese": "tai nạn (bổ sung)"
+  },
+  {
+    "kanji": "願う",
+    "vietnamese": "mong ước, cầu xin (bổ sung)"
+  },
+  {
+    "kanji": "頼む",
+    "vietnamese": "nhờ vả (bổ sung)"
+  },
+  {
+    "kanji": "隣",
+    "vietnamese": "bên cạnh (bổ sung)"
+  },
+  {
+    "kanji": "在勤",
+    "vietnamese": "đang làm việc (bổ sung)"
+  },
+  {
+    "kanji": "在学",
+    "vietnamese": "đang học (bổ sung)"
+  },
+  {
+    "kanji": "講習",
+    "vietnamese": "khóa học ngắn hạn (bổ sung)"
+  },
+  {
+    "kanji": "器具",
+    "vietnamese": "khí cụ, dụng cụ (bổ sung)"
+  },
+  {
+    "kanji": "有無",
+    "vietnamese": "có hay không (bổ sung)"
+  },
+  {
+    "kanji": "指導",
+    "vietnamese": "chỉ đạo, hướng dẫn (bổ sung)"
+  },
+  {
+    "kanji": "通年",
+    "vietnamese": "quanh năm (bổ sung)"
+  },
+  {
+    "kanji": "卓球",
+    "vietnamese": "bóng bàn (bổ sung)"
+  },
+  {
+    "kanji": "持参",
+    "vietnamese": "mang theo (bổ sung)"
+  },
+  {
+    "kanji": "年齢",
+    "vietnamese": "tuổi tác (bổ sung)"
+  },
+  {
+    "kanji": "性別",
+    "vietnamese": "giới tính (bổ sung)"
+  },
+  {
+    "kanji": "返事する",
+    "vietnamese": "trả lời (bổ sung)"
+  },
+  {
+    "kanji": "天候",
+    "vietnamese": "thời tiết (bổ sung)"
+  },
+  {
+    "kanji": "到着する",
+    "vietnamese": "đến nơi (bổ sung)"
+  },
+  {
+    "kanji": "施設",
+    "vietnamese": "thiết bị, cơ sở vật chất (bổ sung)"
+  },
+  {
+    "kanji": "バレーボール",
+    "vietnamese": "bóng chuyền (bổ sung)"
+  },
+  {
+    "kanji": "ヨガ",
+    "vietnamese": "yoga (bổ sung)"
+  },
+  {
+    "kanji": "トレーニング",
+    "vietnamese": "đào tạo, huấn luyện (bổ sung)"
+  },
+  {
+    "kanji": "訓練",
+    "vietnamese": "huấn luyện (bổ sung)"
+  },
+  {
+    "kanji": "様子",
+    "vietnamese": "dáng vẻ, tình trạng (bổ sung)"
+  },
+  {
+    "kanji": "特徴",
+    "vietnamese": "đặc trưng (bổ sung)"
+  },
+  {
+    "kanji": "寄る",
+    "vietnamese": "ghé qua (bổ sung)"
+  },
+  {
+    "kanji": "作品",
+    "vietnamese": "tác phẩm (bổ sung)"
+  },
+  {
+    "kanji": "展示",
+    "vietnamese": "trưng bày (bổ sung)"
+  },
+  {
+    "kanji": "気軽",
+    "vietnamese": "thoải mái, không ngại ngần (bổ sung)"
+  },
+  {
+    "kanji": "偶然",
+    "vietnamese": "ngẫu nhiên (bổ sung)"
+  },
+  {
+    "kanji": "突然",
+    "vietnamese": "đột nhiên (bổ sung)"
+  },
+  {
+    "kanji": "急用",
+    "vietnamese": "việc gấp (bổ sung)"
+  },
+  {
+    "kanji": "ギャラリー",
+    "vietnamese": "phòng tranh, gallery (bổ sung)"
+  },
+  {
+    "kanji": "座る",
+    "vietnamese": "ngồi (bổ sung)"
+  },
+  {
+    "kanji": "窓",
+    "vietnamese": "cửa sổ (bổ sung)"
+  },
+  {
+    "kanji": "途中",
+    "vietnamese": "giữa chừng (bổ sung)"
+  },
+  {
+    "kanji": "緑",
+    "vietnamese": "màu xanh lá (bổ sung)"
+  },
+  {
+    "kanji": "雰囲気",
+    "vietnamese": "bầu không khí (bổ sung)"
+  },
+  {
+    "kanji": "温かい",
+    "vietnamese": "ấm áp (bổ sung)"
+  },
+  {
+    "kanji": "楽器",
+    "vietnamese": "nhạc cụ (bổ sung)"
+  },
+  {
+    "kanji": "目標",
+    "vietnamese": "mục tiêu (bổ sung)"
+  },
+  {
+    "kanji": "眺める",
+    "vietnamese": "ngắm nhìn (bổ sung)"
+  },
+  {
+    "kanji": "斜め",
+    "vietnamese": "nghiêng, chéo (bổ sung)"
+  },
+  {
+    "kanji": "灰色",
+    "vietnamese": "màu xám (bổ sung)"
+  },
+  {
+    "kanji": "灰皿",
+    "vietnamese": "gạt tàn (bổ sung)"
+  },
+  {
+    "kanji": "正面",
+    "vietnamese": "chính diện (bổ sung)"
+  },
+  {
+    "kanji": "進める",
+    "vietnamese": "thúc đẩy, tiến lên (bổ sung)"
+  },
+  {
+    "kanji": "針",
+    "vietnamese": "kim (bổ sung)"
+  },
+  {
+    "kanji": "方針",
+    "vietnamese": "phương châm (bổ sung)"
+  },
+  {
+    "kanji": "沿う",
+    "vietnamese": "men theo, dọc theo (bổ sung)"
+  },
+  {
+    "kanji": "橋",
+    "vietnamese": "cây cầu (bổ sung)"
+  },
+  {
+    "kanji": "壁",
+    "vietnamese": "bức tường (bổ sung)"
+  },
+  {
+    "kanji": "交差点",
+    "vietnamese": "ngã tư (bổ sung)"
+  },
+  {
+    "kanji": "植える",
+    "vietnamese": "trồng (bổ sung)"
+  },
+  {
+    "kanji": "植物",
+    "vietnamese": "thực vật (bổ sung)"
+  },
+  {
+    "kanji": "線路",
+    "vietnamese": "đường ray (bổ sung)"
+  },
+  {
+    "kanji": "桜",
+    "vietnamese": "hoa anh đào (bổ sung)"
+  },
+  {
+    "kanji": "希望",
+    "vietnamese": "hi vọng (bổ sung)"
+  },
+  {
+    "kanji": "横断する",
+    "vietnamese": "băng qua (bổ sung)"
+  },
+  {
+    "kanji": "渡る",
+    "vietnamese": "đi qua, băng qua (bổ sung)"
+  },
+  {
+    "kanji": "歩道",
+    "vietnamese": "vỉa hè (bổ sung)"
+  },
+  {
+    "kanji": "向かう",
+    "vietnamese": "hướng tới (bổ sung)"
+  },
+  {
+    "kanji": "踏切",
+    "vietnamese": "rào chắn tàu (bổ sung)"
+  },
+  {
+    "kanji": "突き当り",
+    "vietnamese": "ngõ cụt, cuối đường (bổ sung)"
+  },
+  {
+    "kanji": "右側",
+    "vietnamese": "phía bên phải (bổ sung)"
+  },
+  {
+    "kanji": "左右",
+    "vietnamese": "trái phải (bổ sung)"
+  },
+  {
+    "kanji": "海岸",
+    "vietnamese": "bờ biển (bổ sung)"
+  },
+  {
+    "kanji": "桜並木",
+    "vietnamese": "hàng cây anh đào (bổ sung)"
+  },
+  {
+    "kanji": "緊急",
+    "vietnamese": "khẩn cấp"
+  },
+  {
+    "kanji": "速報",
+    "vietnamese": "tin nhanh"
+  },
+  {
+    "kanji": "ただ今",
+    "vietnamese": "bây giờ (trang trọng)"
+  },
+  {
+    "kanji": "震度",
+    "vietnamese": "độ của trận động đất"
+  },
+  {
+    "kanji": "～弱",
+    "vietnamese": "~mức, thấp hơn khoảng~"
+  },
+  {
+    "kanji": "念のため",
+    "vietnamese": "đề phòng"
+  },
+  {
+    "kanji": "津波",
+    "vietnamese": "sóng thần"
+  },
+  {
+    "kanji": "警戒する",
+    "vietnamese": "cảnh giác"
+  },
+  {
+    "kanji": "確保する",
+    "vietnamese": "đảm bảo"
+  },
+  {
+    "kanji": "先ほど",
+    "vietnamese": "lúc nãy"
+  },
+  {
+    "kanji": "震源",
+    "vietnamese": "tâm chấn (của trận động đất)"
+  },
+  {
+    "kanji": "沖",
+    "vietnamese": "ngoài khơi"
+  },
+  {
+    "kanji": "沖縄",
+    "vietnamese": "okinawa"
+  },
+  {
+    "kanji": "深さ",
+    "vietnamese": "độ sâu"
+  },
+  {
+    "kanji": "深い",
+    "vietnamese": "sâu"
+  },
+  {
+    "kanji": "浅い",
+    "vietnamese": "nông, cạn"
+  },
+  {
+    "kanji": "記録する",
+    "vietnamese": "ghi nhận"
+  },
+  {
+    "kanji": "余震",
+    "vietnamese": "dư chấn"
+  },
+  {
+    "kanji": "余る",
+    "vietnamese": "dư"
+  },
+  {
+    "kanji": "接近する",
+    "vietnamese": "tiến gần"
+  },
+  {
+    "kanji": "欠航する",
+    "vietnamese": "Sự ngưng phục vụ (dùng cho hủy tàu/chuyến bay)"
+  },
+  {
+    "kanji": "欠く",
+    "vietnamese": "khiếm khuyết"
+  },
+  {
+    "kanji": "大雨",
+    "vietnamese": "mưa lớn"
+  },
+  {
+    "kanji": "大雪",
+    "vietnamese": "tuyết rơi nhiều/dày, bão tuyết"
+  },
+  {
+    "kanji": "影響する",
+    "vietnamese": "ảnh hưởng"
+  },
+  {
+    "kanji": "消防する",
+    "vietnamese": "chữa cháy (bổ sung)"
+  },
+  {
+    "kanji": "消防署",
+    "vietnamese": "đồn chữa cháy"
+  },
+  {
+    "kanji": "乾燥する",
+    "vietnamese": "khô"
+  },
+  {
+    "kanji": "乾く",
+    "vietnamese": "trở nên khô"
+  },
+  {
+    "kanji": "火災",
+    "vietnamese": "hỏa hoạn"
+  },
+  {
+    "kanji": "発生する",
+    "vietnamese": "phát sinh"
+  },
+  {
+    "kanji": "呼びかける",
+    "vietnamese": "kêu gọi"
+  },
+  {
+    "kanji": "固定する",
+    "vietnamese": "cố định"
+  },
+  {
+    "kanji": "雷雲雪",
+    "vietnamese": "sấm sét"
+  },
+  {
+    "kanji": "雷雨",
+    "vietnamese": "bão tố (có sấm sét)"
+  },
+  {
+    "kanji": "梅雨",
+    "vietnamese": "mùa mưa"
+  },
+  {
+    "kanji": "地震",
+    "vietnamese": "động đất"
+  },
+  {
+    "kanji": "マグニチュード",
+    "vietnamese": "cường độ (magnitude)"
+  },
+  {
+    "kanji": "揺れる",
+    "vietnamese": "rung lắc"
+  },
+  {
+    "kanji": "台風",
+    "vietnamese": "bão tố (bão do gió mạnh, có thể gồm mưa hoặc không)"
+  },
+  {
+    "kanji": "集中豪雨",
+    "vietnamese": "Mưa lớn cục bộ, trong một khu vực"
+  },
+  {
+    "kanji": "洪水",
+    "vietnamese": "lũ lụt"
+  },
+  {
+    "kanji": "強風",
+    "vietnamese": "gió mạnh"
+  },
+  {
+    "kanji": "風速",
+    "vietnamese": "sức gió"
+  },
+  {
+    "kanji": "雨量",
+    "vietnamese": "lượng mưa"
+  },
+  {
+    "kanji": "～警報",
+    "vietnamese": "cảnh báo"
+  },
+  {
+    "kanji": "～地方",
+    "vietnamese": "vùng"
+  },
+  {
+    "kanji": "～注意報",
+    "vietnamese": "cảnh báo"
+  },
+  {
+    "kanji": "避難する",
+    "vietnamese": "tị nạn"
+  },
+  {
+    "kanji": "観測する",
+    "vietnamese": "quan trắc, quan sát"
+  },
+  {
+    "kanji": "気象庁",
+    "vietnamese": "cục khí tượng"
+  },
+  {
+    "kanji": "災害",
+    "vietnamese": "thảm họa, tai nạn lao động"
+  },
+  {
+    "kanji": "被害",
+    "vietnamese": "thiệt hại"
+  },
+  {
+    "kanji": "状況",
+    "vietnamese": "tình hình"
+  },
+  {
+    "kanji": "状態",
+    "vietnamese": "tình trạng"
+  },
+  {
+    "kanji": "変更",
+    "vietnamese": "thay đổi"
+  },
+  {
+    "kanji": "放送",
+    "vietnamese": "phát sóng"
+  },
+  {
+    "kanji": "幸せ",
+    "vietnamese": "hạnh phúc"
+  },
+  {
+    "kanji": "人数",
+    "vietnamese": "số người"
+  },
+  {
+    "kanji": "資料",
+    "vietnamese": "tài liệu"
+  },
+  {
+    "kanji": "準備",
+    "vietnamese": "chuẩn bị"
+  },
+  {
+    "kanji": "祈る",
+    "vietnamese": "cầu nguyện"
+  }
+]

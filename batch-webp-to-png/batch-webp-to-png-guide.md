@@ -32,13 +32,20 @@ So you can run them directly without manual dependency setup.
 3. Check generated `.png` files in `output/`.
 4. Run the PDF script to create a combined PDF.
 
-## Run commands (PowerShell)
+## Run commands
 
 From inside `batch-webp-to-png/`:
 
-```powershell
+**PowerShell**
+```
 python .\batch_convert_webp_to_png.py
 python .\images-to-pdf.py
+```
+
+**Command Prompt**
+```
+python batch_convert_webp_to_png.py
+python images-to-pdf.py
 ```
 
 If `python` is not on PATH, use your launcher (for example `py`).

@@ -38,3 +38,7 @@ batch-create-ankiNotes/logs/
 # batch-webp-to-png working folders
 batch-webp-to-png/input/
 batch-webp-to-png/output/
+
+# pdf-splitter working folders
+pdf-splitter/input/
+pdf-splitter/*_pages/

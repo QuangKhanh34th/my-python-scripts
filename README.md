@@ -25,13 +25,6 @@ Some scripts require extra setup, input files, or a specific run order.
 
 If a script needs additional steps, go into that script folder and read its markdown guide.
 
-## Current script folders
-
-- `batch-create-ankiNotes/`
-  - Guide: `batch-anki-guide.md`
-- `batch-webp-to-png/`
-  - Guide: `batch-webp-to-png-guide.md`
-
 ## Recommended usage pattern
 
 1. Pick a folder based on your task.

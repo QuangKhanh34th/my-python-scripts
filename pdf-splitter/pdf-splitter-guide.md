@@ -34,12 +34,12 @@ The script:
 
 From inside `pdf-splitter/`:
 
-**powershell**
+**PowerShell**
 ```
 python .\pdf-splitter.py
 ```
 
-**batch**
+**Command Prompt**
 ```
 python pdf-splitter.py
 ```
